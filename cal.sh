@@ -4,8 +4,10 @@
 #선택된 paramater로 계산 수행
 
 num1=$(<cat num1.txt)
-num2=$(<cat num2.txt')
+num2=$(<cat num2.txt)
 numarry=("$num1" "$num2) 
+
+echo "project management in github"
 
 final_calculate(){
 
